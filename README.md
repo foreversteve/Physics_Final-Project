@@ -7,5 +7,5 @@ While in space, the user can apply thrust to the 4 planar direction using the us
 Things that were missed in the video:
     1) The fuel ejected is represented by small yellow circles that disappear upon touching the player or planet
     2) The player velocity is oriented the same way as the java coordinate system (4th quadrant): up is negative
-    3) Player mass will not fully disappear. The fuel represents only a portion of the player's total mass and upon depletion, the player can no       apply input, meaning the ship would be allowed to "free-fall" into the gravitational sinks.
+    3) Player mass will not fully disappear. The fuel represents only a portion of the player's total mass and upon depletion, the player can not       apply input, meaning the ship would be allowed to "free-fall" into the gravitational sinks.
 
